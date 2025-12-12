@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "index": {
+      "entry": "index.js",
+      "route": "/*"
+    }
+  },
+  "assets": {
+    "directory": ""
+  }
+}
